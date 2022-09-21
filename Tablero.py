@@ -25,10 +25,15 @@ for lista in miTablero.casillas:
 
 miTablero.casillas[0][0]='X'
 
-
-
 for lista in miTablero.casillas:
     print(lista)
+
+input("Ingrese numero")
+print("0")
+
+
+
+
 
 
     
